@@ -20,16 +20,16 @@ Welcome to the **Restaurant and Flight Booking System**! This app combines the b
 ![Home Page](./screenshots/home.png)
 
 ### 🔍 Search for Flights
-![Search Flights](./screenshots/search.png)
+![Search Flights](./screenshots/search.jpeg)
 
 ### 🛏️ Book Hotels
-![Book Hotels](./screenshots/hotels.png)
+![Book Hotels](./screenshots/hotels.jpeg)
 
 ### 🎟️ Flight Ticket Details
-![Ticket Details](./screenshots/ticket.png)
+![Ticket Details](./screenshots/ticket.jpeg)
 
 ### 📊 Accrued Miles
-![Accrued Miles](./screenshots/miles.png)
+![Accrued Miles](./screenshots/miles.jpeg)
 
 *More screenshots can be found in the `/screenshots` directory.*
 
