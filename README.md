@@ -23,7 +23,7 @@ Welcome to the **Restaurant and Flight Booking System**! This app combines the b
 ![Search Flights](./screenshots/search.jpeg)
 
 ### 🛏️ Book Hotels
-![Book Hotels](./screenshots/hotels.jpeg)
+![Book Hotels](./screenshots/hotel.jpeg)
 
 ### 🎟️ Flight Ticket Details
 ![Ticket Details](./screenshots/ticket.jpeg)
